@@ -10,8 +10,8 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 
 import openai
 
-TOKEN = '5820633185:AAFzKVEf4aK_oVC1mkdLdtOzpwIs7-MXlco'
-openai.api_key = 'Q2zpQWk3aJS_8Z5xw38J4W0aL_a8BdjB4L67tzFnJ0U'
+TOKEN = 'KVEfzpwIs7-MXlco'
+openai.api_key = '0aL_a8BdjB4L67tzFnJ0U'
 openai.api_base = "https://chimeragpt.adventblocks.cc/v1"
 
 owner_id = 1372715395
